@@ -1,0 +1,11 @@
+div#Visualizer{
+    background-color: rgb(36, 39, 39);
+}
+
+div#Visualizer svg{
+    background-color: rgb(0, 0, 0);
+}
+
+div#Visualizer rect{
+    background-color: beige;
+}

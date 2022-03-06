@@ -1,0 +1,40 @@
+div#Controller{
+    background-color: rgb(145, 145, 145);
+    width: 120px;
+    height: 120px;
+    margin: auto;
+}
+
+div.controll-button{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(48, 122, 122);
+    color: #ffffff;
+    user-select: none;
+    margin: 0px;
+}
+div.controll-button:hover{
+    background-color: rgb(47, 154, 160);
+}
+
+div.up-button{
+    position: relative;
+    left: 40px;
+}
+div.down-button{
+    position: relative;
+    left: 40px;
+    top: -80px;
+}
+div.left-button{
+
+}
+div.right-button{
+    top: -80px;
+    left: 80px;
+}
+div.stay-button{
+    top: -40px;
+    left: 40px;
+}
